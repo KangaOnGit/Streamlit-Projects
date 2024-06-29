@@ -15,7 +15,7 @@ To deploy these projects on Streamlit, do as follow:
 ![image](https://github.com/KhangTheKangaroo/Streamlit_Project/assets/171163677/a33e61e4-368c-45ec-9982-01152e40a235)
 You don't need to worry about the advanced settings, just follow me!
 -Choose the repo that has your Streamlit Project
--Choose the branch ***WIH** the Project
+-Choose the branch *WITH* the Project
 -Main File Path is your project name: ![image](https://github.com/KhangTheKangaroo/Streamlit_Project/assets/171163677/02ed439d-25c8-42a2-9778-c09a20a9289b)
 -Click Deploy
 ![image](https://github.com/KhangTheKangaroo/Streamlit_Project/assets/171163677/333bf3f5-6ec1-495d-8bfa-1161bc531d4f)
