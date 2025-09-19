@@ -1,4 +1,4 @@
-# -Streamlit Project Made By A Beginner-
+# -Streamlit Projects Made By A Beginner-
 Hello random Github user! My name is Kangaroo, these are my starter projects using streamlit as a template for ease of access and representation. These projects serve as a practice for my future AI Projects.
 
 To deploy these projects on Streamlit, do as follow:
